@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+
+</head>
+<body>
+<div id="result"></div>
+<div id="cart"></div>
+<button onclick="clicked()">Click Me</button>
+<br>
+<button onclick="addToCart()">Add to cart</button>
+<script>
+  function clicked(){
+    if (localStorage.clickcount) {
+      localStorage.clickcount =
+        Number(localStorage.clickcount) + 1;
+    }
+    else {
+      localStorage.clickcount = 1;
+    }
+    document.getElementById("result").innerHTML =
+      "You have clicked the button " +
+      localStorage.clickcount + " time(s).";
+  }
+  <!--By tuesday figure out how to have the cart DELETE all items in cart-->
+  function addToCart(){
+    console.log("Inside addToCart() function");
+    if (localStorage.prod1) {
+      localStorage.prod1 = Number(localStorage.prod1)+1;
+
+    }
+    else {
+      localStorage.prod1=1;
+    }
+    document.getElementById("cart").innerHTML = "Product 1 qty: " +localStorage.prod1;
+  }
+
+</script>
+</body>
+</html>

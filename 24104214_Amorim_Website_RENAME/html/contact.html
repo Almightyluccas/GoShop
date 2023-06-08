@@ -1,0 +1,93 @@
+<!--
+Name: Luccas Amorim
+ID: 24104214
+page name: contact
+description:
+IDEA: add an admin login that can view submitted messages from contact.html
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="../css/myStyle.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <title>Document</title>
+</head>
+<body>
+  <nav class="navbar navbar-expand-xl sticky-top">
+    <ul class="nav nav-pills">
+      <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+      <li class="nav-item"><a class="nav-link" href="product1.html">Products</a></li>
+      <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+      <li class="nav-item"><a class="nav-link" href="cart.html">Cart</a></li>
+      <li class="nav-item"><a class="nav-link active" href="contact.html">Contact</a></li>
+    </ul>
+    <ul class="nav nav-pills ml-auto">
+      <li class="nav-item" id="loginButtonArea">
+      </li>
+    </ul>
+  </nav>
+  <div id="loginPopup"></div>
+  <div id="signUpPopup"></div>
+
+
+  <form class="contactForm">
+    <div class="contactContainer">
+      <div id="contact">
+        <div id="msgFirstName">
+          <label id="contactLabelFirstName" for="contactFirstName">First Name</label> <br>
+          <input id="contactFirstName" type="text" name="contactName"> <br>
+        </div>
+        <div id="msgLastName">
+          <label id="contactLabelLastName" for="contactLastName">Last Name</label>  <br>
+          <input id="contactLastName" type="text" name="contactName" ><br>
+        </div>
+        <div id="msgEmail">
+          <label id='contactLabelEmail' for="contactEmail">Email</label> <br>
+          <input id="contactEmail" type="email" name="contactEmail"><br>
+        </div>
+        <div id="msgSubject">
+          <label id="contactLabelSubject" for="contactSubject">Subject</label> <br>
+          <input id="contactSubject" type="text" name="contactSubject"> <br>
+        </div>
+       <div id="msgMessage">
+         <label id="contactLabelMessage" for="contactMessage">Message</label> <br>
+         <textarea id="contactMessage" rows="10" cols="50" name="contactTextArea"> </textarea> <br>
+       </div>
+      
+        <div id="contactInputs" >
+          <div id="contactInputsContainer">
+            <input type="submit" id='submitContact' value="Submit" name="choice" >
+            <input type="submit" id='clearMessage' value="Clear message" name="choice">
+            <input type="reset" id='resetContact' value="Reset" name="choice">
+          </div>
+
+        </div>
+
+  
+      </div>
+  
+    </div>
+
+
+
+  </form>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+          integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+          crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+          crossorigin="anonymous"></script>
+    <script src="../js/customLibrary/cookiesClass.js" ></script>
+    <script src="../js/registrationLoginAuthentication.js"></script>
+    <script src="../js/contactPage.js"></script>
+
+  
+  
+</body>
+</html>

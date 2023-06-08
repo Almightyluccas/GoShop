@@ -1,0 +1,489 @@
+{
+  "categoryLinks" : [
+    {
+      "image": "../images/shoes/jordan6Infrared.jpg",
+      "pageLink": "../html/product1.html",
+      "categoryName": "Sneakers"
+    },
+    {
+      "image": "../images/computers/laptopHomepage1.jpg",
+      "pageLink": "../html/product2.html",
+      "categoryName": "Computers"
+    }
+  ],
+  "popular": [
+    {
+      "product_ID": "02",
+      "title": "Jordan 1 'OG Taxi'",
+      "price": "$190",
+      "image": "../images/shoes/jordan1OGTaxi.jpg",
+      "imageAlt": "",
+      "description": ""
+    },
+    {
+      "product_ID": "03",
+      "title": "Jordan 1 'Fearless'",
+      "price": "$430",
+      "image": "../images/shoes/jordan1FearlessUNC.jpg",
+      "imageAlt": "",
+      "description": ""
+    },
+    {
+      "product_ID": "04",
+      "title": "Jordan 1 'Lost and Found'",
+      "price": "$460",
+      "image": "../images/shoes/jordan1LostAndFound2.jpg",
+      "imageAlt": "",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Call of Duty MW2",
+      "price": "$69.99",
+      "image": "../images/games/codMW2.jpg",
+      "imageAlt": "image of call of duty MW 2",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Fifa 23",
+      "price": "$69.99",
+      "image": "../images/games/Fifa23.jpg",
+      "imageAlt": "image of Fifa 23",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "RTX 3080 Gaming PC",
+      "price": "$2,249.99",
+      "image": "../images/computers/gamingPCRTX3080LiquidCooling.jpg",
+      "imageAlt": "image of gaming pc and liquid cooled rtx3080",
+      "description": ""
+    }
+  ],
+
+  "sneakers": [
+    {
+      "product_ID": "01",
+      "title": "Jordan 6 'Infrared'",
+      "price": "$190",
+      "image": "../images/shoes/jordan6Infrared.jpg",
+      "imageAlt": "",
+      "description": ""
+    },
+    {
+      "product_ID": "02",
+      "title": "Jordan 1 'OG Taxi'",
+      "price": "$190",
+      "image": "../images/shoes/jordan1OGTaxi.jpg",
+      "imageAlt": "",
+      "description": ""
+    },
+    {
+      "product_ID": "03",
+      "title": "Jordan 1 'Fearless'",
+      "price": "$430",
+      "image": "../images/shoes/jordan1FearlessUNC.jpg",
+      "imageAlt": "",
+      "description": ""
+    },
+    {
+      "product_ID": "04",
+      "title": "Jordan 1 'Lost and Found'",
+      "price": "$460",
+      "image": "../images/shoes/jordan1LostAndFound2.jpg",
+      "imageAlt": "",
+      "description": ""
+    },
+    {
+      "product_ID": "05",
+      "title": "Jordan 1 'Bubble Gum'",
+      "image": "../images/shoes/jordan1BubbleGum.jpg",
+      "imageAlt": "",
+      "price": "$180",
+      "description": ""
+    },
+    {
+      "product_ID": "06",
+      "title": "Nike Dunk Low 'Disrupt 2'",
+      "price": "$170",
+      "image": "../images/shoes/NikeDunkLowDisrupt2Phantom.jpg",
+      "imageAlt": "",
+      "description": ""
+    },
+    {
+      "product_ID": "07",
+      "title": "Nike SB Dunk 'Lobster'",
+      "price": "$660",
+      "image": "../images/shoes/nikeSBDunkLobster.jpg",
+      "imageAlt": "",
+      "description": ""
+    },
+    {
+      "product_ID": "08",
+      "title": "Jordan 4 'Military Black'",
+      "price": "$375",
+      "image": "../images/shoes/jordan4MilitaryBlack.jpg",
+      "imageAlt": "",
+      "description": ""
+    },
+    {
+      "product_ID": "09",
+      "title": "Nike SB Dunk 'LA Dodgers",
+      "price": "$370",
+      "image": "../images/shoes/nikeSBDunkLosAngelesDodgers.jpg",
+      "imageAlt": "",
+      "description": ""
+    },
+    {
+      "product_ID": "10",
+      "title": "Jordan 1 'Starfish'",
+      "price": "$180",
+      "image": "../images/shoes/jordan1Starfish.jpg",
+      "imageAlt": "",
+      "description": ""
+    }
+  ],
+  "games": [
+    {
+      "product_ID": "",
+      "title": "Call of Duty MW2",
+      "price": "$69.99",
+      "image": "../images/games/codMW2.jpg",
+      "imageAlt": "image of call of duty MW 2",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Rainbow Six Siege",
+      "price": "$29.99",
+      "image": "../images/games/rainbowSixSiege.jpg",
+      "imageAlt": "Image of rainbow six siege",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Fifa 23",
+      "price": "$69.99",
+      "image": "../images/games/Fifa23.jpg",
+      "imageAlt": "image of Fifa 23",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Hogwarts Legacy",
+      "price": "$53.97",
+      "image": "../images/games/hogwartsLegacy.jpg",
+      "imageAlt": "image of hogwarts legacy game",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Dead Space",
+      "price": "$55.99",
+      "image": "../images/games/deadSpace.jpg",
+      "imageAlt": "image of dead space",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Borderlands 3",
+      "price": "$8.99",
+      "image": "../images/games/borderland3.jpg",
+      "imageAlt": "image of borderland 3",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "NBA 2K23",
+      "price": "$69.99",
+      "image": "../images/games/nba2k23.jpg",
+      "imageAlt": "image of nba2k23",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Mount & Blade II: Bannerlord",
+      "price": "$49.99",
+      "image": "../images/games/mount&bladeBannerlord.jpg",
+      "imageAlt": "image of mount&blade bannerlord",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Forza Horizon 5",
+      "price": "$35.99",
+      "image": "../images/games/forzaHorizon5.jpg",
+      "imageAlt": "image of forza horizon 4",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Resident Evil 4",
+      "price": "$59.99",
+      "image": "../images/games/residentEvil4.jpg",
+      "imageAlt": "Image of resident evil 4",
+      "description": ""
+    },{
+      "product_ID": "",
+      "title": "Call of Duty MW2",
+      "price": "$69.99",
+      "image": "../images/games/codMW2.jpg",
+      "imageAlt": "image of call of duty MW 2",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Rainbow Six Siege",
+      "price": "$29.99",
+      "image": "../images/games/rainbowSixSiege.jpg",
+      "imageAlt": "Image of rainbow six siege",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Fifa 23",
+      "price": "$69.99",
+      "image": "../images/games/Fifa23.jpg",
+      "imageAlt": "image of Fifa 23",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Hogwarts Legacy",
+      "price": "$53.97",
+      "image": "../images/games/hogwartsLegacy.jpg",
+      "imageAlt": "image of hogwarts legacy game",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Dead Space",
+      "price": "$55.99",
+      "image": "../images/games/deadSpace.jpg",
+      "imageAlt": "image of dead space",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Borderlands 3",
+      "price": "$8.99",
+      "image": "../images/games/borderland3.jpg",
+      "imageAlt": "image of borderland 3",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "NBA 2K23",
+      "price": "$69.99",
+      "image": "../images/games/nba2k23.jpg",
+      "imageAlt": "image of nba2k23",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Mount & Blade II: Bannerlord",
+      "price": "$49.99",
+      "image": "../images/games/mount&bladeBannerlord.jpg",
+      "imageAlt": "image of mount&blade bannerlord",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Forza Horizon 5",
+      "price": "$35.99",
+      "image": "../images/games/forzaHorizon5.jpg",
+      "imageAlt": "image of forza horizon 4",
+      "description": ""
+    },
+    {
+      "product_ID": "",
+      "title": "Resident Evil 4",
+      "price": "$59.99",
+      "image": "../images/games/residentEvil4.jpg",
+      "imageAlt": "Image of resident evil 4",
+      "description": ""
+    }
+
+  ],
+  "electronics": [
+    {
+      "laptops" : [
+        {
+          "product_ID": "",
+          "title": "MacBook Air M2",
+          "price": "$1,199",
+          "image": "../images/computers/MacBookAirM2.jpg",
+          "imageAlt": "image of macbook air m2",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "MacBook Pro M1 14\"",
+          "price": "$1,999",
+          "image": "../images/computers/MacBookPro2021-14Inch.jpg",
+          "imageAlt": "image of macbook pro 14 inch m1",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "Microsoft Surface Laptop 5 13.5\"",
+          "price": "$999.99",
+          "image": "../images/computers/microsoftSurfaceLaptop5-13.5''i716GB-512GB.jpg",
+          "imageAlt": "image of Microsoft Surface Laptop",
+          "description": ""
+        }
+      ],
+      "graphicsCards" : [
+        {
+          "product_ID": "",
+          "title": "RTX 3080 FTW3",
+          "price": "$1,200",
+          "image": "../images/computers/rtx3080FTW3.jpg",
+          "imageAlt": "image of rtx3080 ftw3",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "ASUS RTX 3070 Ti ROG Strix",
+          "price": "$848",
+          "image": "../images/computers/rtx3070TIROGSTRIX.jpg",
+          "imageAlt": "image of rtx3070 TI ROG strix",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "MSI RTX 4090 SUPRIM X",
+          "price": "$1,699.99",
+          "image": "../images/computers/rtx4090MSISuprimX.jpg",
+          "imageAlt": "image of rtx4090 SuprimX",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "MSI RTX 4090 Gaming Trio",
+          "price": "$1,699",
+          "image": "../images/computers/rtx4090MSITRIO.jpg",
+          "imageAlt": "image of rtx4090",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "GIGABYTE Gaming RTX 4090",
+          "price": "$1,699.99",
+          "image": "../images/computers/rtx4090Gigabyte.jpg",
+          "imageAlt": "image of gigabyte rtx4090",
+          "description": ""
+        }
+      ],
+      "gamingTowers" : [
+        {
+          "product_ID": "",
+          "title": "RTX 3080 Gaming PC",
+          "price": "$2,249.99",
+          "image": "../images/computers/gamingPCRTX3080LiquidCooling.jpg",
+          "imageAlt": "image of gaming pc and liquid cooled rtx3080",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "Skytech Prism II RTX 3090 Gaming PC",
+          "price": "$2,999.99",
+          "image": "../images/computers/SkyTechPrism2GamingPCRTX3090.jpg",
+          "imageAlt": "image of gaming pc with rtx3090",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "accessories": [
+    {
+      "videoGame" : [
+        {
+          "product_ID": "",
+          "title": "Playstation 5 Controller",
+          "price": "$69.99",
+          "image": "../images/accessories/videogamePlayStationController.jpg",
+          "imageAlt": "image of playstation controller",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "Xbox Series X Controller",
+          "price": "$39.99",
+          "image": "../images/accessories/videogameXboxController.jpg",
+          "imageAlt": "image of xbox controller",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "Rechargeable Battery Pack Xbox Series X",
+          "price": "$24.99",
+          "image": "../images/accessories/videogameRechargableBatteryXbox.jpg",
+          "imageAlt": "image of rechargable battery pack xbox",
+          "description": ""
+        }
+      ],
+      "computer" : [
+        {
+          "product_ID": "",
+          "title": "Glorious Model 0 Wireless Mouse",
+          "price": "$74.25",
+          "image": "../images/accessories/computerModel0WirelessGamingMouse.jpg",
+          "imageAlt": "image of glorious model o mouse",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "Samsung T7 1TB External SSD",
+          "price": "$99.99",
+          "image": "../images/accessories/computerSamsungPortableSSDt1TBT7.jpg",
+          "imageAlt": "image of 1tb external ssd samsung",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "SteelSeries Apex Pro Mechanical keyboard",
+          "price": "$199.99",
+          "image": "../images/accessories/computerSteelseriesApexPro.jpg",
+          "imageAlt": "keyboard image",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "SteelSeries Mousepad",
+          "price": "$7.99",
+          "image": "../images/accessories/computeSteelseriesMousepad.jpg",
+          "imageAlt": "mousepad image",
+          "description": ""
+        }
+      ],
+      "sneaker" : [
+        {
+          "product_ID": "",
+          "title": "Ultimate Shoe Freshener",
+          "price": "$10.99",
+          "image": "../images/accessories/sneakerShoeFreshenerCrepProtect.jpg",
+          "imageAlt": "image of crep protect sneaker freshner",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "Ultimate Sneaker Care Pack",
+          "price": "$40",
+          "image": "../images/accessories/sneakerUltimateBoxCrepProtect.jpg",
+          "imageAlt": "image of crep protect ultimate box ",
+          "description": ""
+        },
+        {
+          "product_ID": "",
+          "title": "White Replacement Laces",
+          "price": "$5.99",
+          "image": "../images/accessories/sneakerReplacementLacesWhite.jpg",
+          "imageAlt": "image of replacement laces",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

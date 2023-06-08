@@ -1,0 +1,104 @@
+<!--
+
+
+
+
+IDEA: add an admin login that can view submitted messages from contact.html
+TODO: make price generate dynamically
+TODO: add users name after GoShop if they are logged in
+TODO: change the picture for computers
+TODO: add functionality to add to cart buttons for all pages
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="../css/myStyle.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <title>GoShop: Home</title>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+          integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+          crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+          crossorigin="anonymous" ></script>
+  <script src="../js/productGeneration.js" defer></script>
+  <script src="../js/customLibrary/cookiesClass.js" defer></script>
+  <script src="../js/registrationLoginAuthentication.js" defer></script>
+
+
+
+
+</head>
+<body >
+<nav class="navbar navbar-expand-xl sticky-top " style="">
+  <ul class="nav nav-pills">
+    <li class="nav-item mx-2" ><a class="nav-link active" href="index.html">Home</a></li>
+    <li class="nav-item dropdown mx-2">
+      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+         aria-haspopup="true" aria-expanded="false">Products</a>
+      <div class="dropdown-menu " aria-labelledby="navbarDropdown">
+        <a class="dropdown-item" href="../html/product1.html">Sneakers</a>
+        <a class="dropdown-item" href="../html/products2.html">Computers</a>
+        <a class="dropdown-item" href="../html/products3.html">Video Games</a>
+        <a class="dropdown-item" href="../html/products4.html">Accessories</a>
+      </div>
+    </li>
+    <li class="nav-item mx-2"><a class="nav-link" href="about.html">About</a></li>
+    <li class="nav-item mx-2"><a class="nav-link" href="cart.html">Cart</a></li>
+    <li class="nav-item mx-2"><a class="nav-link" href="contact.html">Contact</a></li>
+  </ul>
+  <ul class="nav nav-pills ml-auto">
+    <li class="nav-item" id="loginButtonArea">
+    </li>
+  </ul>
+</nav>
+<div id="loginPopup"></div>
+<div id="signUpPopup"></div>
+
+
+<div class="container my-5 " id="welcomeMessage">
+  <div class="row ">
+    <div class="col">
+      <span class="h1 my-5" id="welcomeMessageLoggedIn">Welcome to GoShop!</span>
+    </div>
+  </div>
+</div>
+
+
+
+
+<div class="container my-5">
+  <div class="row my-4 ">
+    <div class="col">
+      <div class="card">
+        <img class="card-img-top img-fluid" src="../images/shoes/jordan6Infrared.jpg" alt="card image top">
+        <div class="card-body">
+          <a class="card-title h5" href="../html/product1.html" >Sneakers</a>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <img class="card-img-top img-fluid" src="../images/computers/laptopHomepage1.jpg" alt="card image top">
+        <div class="card-body">
+          <a class="card-title h5" href="#" >Computers</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script class="container my-5" id="pageCardLinks"></script>
+<div class="container my-5" id="popularProducts"></div>
+
+
+
+<!-- TODO: ADD FOOTER TO ALL PAGES -->
+
+
+</body>
+</html>
