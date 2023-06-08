@@ -42,6 +42,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 - [Font Awesome](https://fontawesome.com/)
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [lamorim7657@outlook.com](mailto:lamorim7657@outlook.com).
+If you have any questions or suggestions, feel free to contact me at [luccasgraterol1984@gmail.com](mailto:luccasgraterol1984@gmail.com).
 
 Please note that this project is solely for educational purposes and does not include any security features or user authentication.
