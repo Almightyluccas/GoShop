@@ -22,9 +22,11 @@ GoShop is a front-end e-commerce website developed to gain familiarity with Boot
 
 To run the GoShop project locally, follow these steps:
 
-1. Clone this repository: https://github.com/your-username/GoShop.git
-2. Start a live server in the root directory of the project. You can use tools like [VS Code Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) or any other server of your choice.
-3. Open your web browser and navigate to the URL provided by the live server.
+1. Clone this repository: `git clone https://github.com/your-username/GoShop.git`.
+2. Navigate to the project directory: `cd solevault`.
+3. Open `index.html` in your text editor (this servers as the home page)
+4. Start a live server in the root directory of the project. You can use tools like [VS Code Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) or any other server of your choice.
+5. Open your web browser and navigate to the URL provided by the live server.
 
 ## Contributing
 
