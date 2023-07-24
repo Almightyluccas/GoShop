@@ -32,9 +32,6 @@ To run the GoShop project locally, follow these steps:
 
 Contributions are not currently being accepted for this project as it is intended for learning purposes only.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more information.
 
 ## Acknowledgements
 
